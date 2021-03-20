@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ae330f6.chunk.css",
-    "main.js": "/static/js/main.00271b53.chunk.js",
-    "main.js.map": "/static/js/main.00271b53.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.348c6e4c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.348c6e4c.js.map",
-    "static/js/2.b989e956.chunk.js": "/static/js/2.b989e956.chunk.js",
-    "static/js/2.b989e956.chunk.js.map": "/static/js/2.b989e956.chunk.js.map",
-    "static/js/3.5a03bab3.chunk.js": "/static/js/3.5a03bab3.chunk.js",
-    "static/js/3.5a03bab3.chunk.js.map": "/static/js/3.5a03bab3.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2ae330f6.chunk.css.map": "/static/css/main.2ae330f6.chunk.css.map",
-    "static/js/2.b989e956.chunk.js.LICENSE.txt": "/static/js/2.b989e956.chunk.js.LICENSE.txt",
-    "static/media/1.f6ebdd10.webp": "/static/media/1.f6ebdd10.webp",
-    "static/media/2.c92b4a65.webp": "/static/media/2.c92b4a65.webp",
-    "static/media/3.270d7b3f.webp": "/static/media/3.270d7b3f.webp",
-    "static/media/4.de8d3081.webp": "/static/media/4.de8d3081.webp",
-    "static/media/5.9655a0ba.webp": "/static/media/5.9655a0ba.webp"
+    "main.css": "/Catoapo/static/css/main.2ae330f6.chunk.css",
+    "main.js": "/Catoapo/static/js/main.68543c11.chunk.js",
+    "main.js.map": "/Catoapo/static/js/main.68543c11.chunk.js.map",
+    "runtime-main.js": "/Catoapo/static/js/runtime-main.77c619f8.js",
+    "runtime-main.js.map": "/Catoapo/static/js/runtime-main.77c619f8.js.map",
+    "static/js/2.b989e956.chunk.js": "/Catoapo/static/js/2.b989e956.chunk.js",
+    "static/js/2.b989e956.chunk.js.map": "/Catoapo/static/js/2.b989e956.chunk.js.map",
+    "static/js/3.5a03bab3.chunk.js": "/Catoapo/static/js/3.5a03bab3.chunk.js",
+    "static/js/3.5a03bab3.chunk.js.map": "/Catoapo/static/js/3.5a03bab3.chunk.js.map",
+    "index.html": "/Catoapo/index.html",
+    "static/css/main.2ae330f6.chunk.css.map": "/Catoapo/static/css/main.2ae330f6.chunk.css.map",
+    "static/js/2.b989e956.chunk.js.LICENSE.txt": "/Catoapo/static/js/2.b989e956.chunk.js.LICENSE.txt",
+    "static/media/1.f6ebdd10.webp": "/Catoapo/static/media/1.f6ebdd10.webp",
+    "static/media/2.c92b4a65.webp": "/Catoapo/static/media/2.c92b4a65.webp",
+    "static/media/3.270d7b3f.webp": "/Catoapo/static/media/3.270d7b3f.webp",
+    "static/media/4.de8d3081.webp": "/Catoapo/static/media/4.de8d3081.webp",
+    "static/media/5.9655a0ba.webp": "/Catoapo/static/media/5.9655a0ba.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.348c6e4c.js",
+    "static/js/runtime-main.77c619f8.js",
     "static/js/2.b989e956.chunk.js",
     "static/css/main.2ae330f6.chunk.css",
-    "static/js/main.00271b53.chunk.js"
+    "static/js/main.68543c11.chunk.js"
   ]
 }
